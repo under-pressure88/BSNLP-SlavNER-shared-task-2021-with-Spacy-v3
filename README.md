@@ -1,6 +1,9 @@
 # BSNLP-SlavNER-shared-task-2021-with-Spacy-v3
 This repository consists of the code for proccessing the data and training NER for Russian language at BSNLP SlavNER 2021 using Spacy
 
+## Install dependencies
+pip install -r requirements.txt
+
 ## Instructions
 1. Clone this repository
 2. Download the data from [BSNLP Shared Task page](http://bsnlp.cs.helsinki.fi/shared-task.html) and put it into data/bsnlp2021_train_r1
