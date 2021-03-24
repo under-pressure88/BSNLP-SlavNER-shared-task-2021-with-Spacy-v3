@@ -2,7 +2,10 @@
 This repository consists of the code for proccessing the data and training NER for Russian language at BSNLP SlavNER 2021 using Spacy
 
 ## Install dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
+
+## External resources / Prerequisites
+Look at [this article](https://towardsdatascience.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647) if you're experiencing troubles with gpu to fine-tune Bert 
 
 ## Instructions
 1. Clone this repository
